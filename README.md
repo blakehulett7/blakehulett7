@@ -1,5 +1,7 @@
 ## Hi there 👋
+<p align="center>
 I do my best work from the top of rollercoasters!
+ 
 * 🐨 Certified Gopher!
  
 * 🏬 Writing web servers makes me feel ALIVE
