@@ -1,6 +1,6 @@
 ## Hi there 👋
 <p align="center">
-I do my best work from the top of rollercoasters!
+I do my best work from the top of rollercoasters
  
 * 🐨 Certified Gopher!
  
