@@ -8,7 +8,7 @@ I do my best work from the top of rollercoasters
  
 * ⛺ I permanently reside on the terminal
  
-* 💾 I love to SQL (pronounced squeal) litely...
+* 💾 I love to SQL litely...
  
 * ⚡ One day, I will write a zig simulation on par with TigerBeetle and no better
  
